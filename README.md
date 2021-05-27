@@ -1,2 +1,3 @@
-# curso-alura-arquitetura-css
+# Curso-alura-arquitetura-css
+
 Projeto feito para o curso de Arquitetura CSS para Alura
